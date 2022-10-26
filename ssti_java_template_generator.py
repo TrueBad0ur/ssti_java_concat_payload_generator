@@ -1,4 +1,3 @@
-
 user_input = input("Enter string: ")
 
 first_byte = user_input[0]
